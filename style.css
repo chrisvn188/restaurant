@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
-/* font-family: 'Satisfy', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+/* font-family: 'Rye', cursive; */
 @import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
 /* font-family: 'Oleo Script', cursive; */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
@@ -37,7 +37,7 @@ body {
 }
 
 .header-logo {
-  font-family: 'Satisfy', cursive;
+  font-family: 'Rye', cursive;
   font-size: 3rem;
   display: block;
   padding: 0.5em 0;
